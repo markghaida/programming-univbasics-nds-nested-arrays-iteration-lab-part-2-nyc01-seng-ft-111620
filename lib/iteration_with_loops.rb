@@ -19,9 +19,9 @@ while count < src.length do
 	inner count += 1
         end
 new_array << low temp
-Count += 1
+count += 1
 end
 
-Return new_array
+return new_array
 end 
 end
