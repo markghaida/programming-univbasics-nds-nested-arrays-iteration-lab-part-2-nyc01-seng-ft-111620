@@ -16,7 +16,7 @@ while count < src.length do
 			
 			low_temp = src[count][inner_count]
 		end
-	inner count += 1
+	inner_count += 1
   end
  new_array << low_temp
  count += 1
