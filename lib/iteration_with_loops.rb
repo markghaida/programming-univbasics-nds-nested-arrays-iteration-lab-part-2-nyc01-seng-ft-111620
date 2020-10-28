@@ -9,7 +9,7 @@ low_temp = 100
 while count < src.length do 
  	
 	inner_count = 0
-
+# 	inner_count = 0
 	while inner_count < src[count].length do
 		
 		if low_temp > src[count][inner_count] 
