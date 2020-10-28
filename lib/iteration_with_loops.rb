@@ -14,11 +14,11 @@ while count < src.length do
 		low_temp = 100
 		if low_temp > src[count][inner_count] 
 			
-			low temp = src[count][inner_count]
+			low_temp = src[count][inner_count]
 		end
 	inner count += 1
   end
- new_array << low temp
+ new_array << low_temp
  count += 1
 end
 return new_array
