@@ -24,4 +24,3 @@ end
 
 return new_array
 end 
-end
