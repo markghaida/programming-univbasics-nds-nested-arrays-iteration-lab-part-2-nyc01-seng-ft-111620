@@ -22,7 +22,7 @@ while count < src.length do
   
  new_array << low_temp
  
-# 	if inner_count == src[count].length && (count == src.length) do 
+# 	if inner_count == src[count].length && count != src.length
 	  
 # 	   low_temp = 100
 # 	end
