@@ -21,6 +21,5 @@ while count < src.length do
  new_array << low temp
  count += 1
 end
-
 return new_array
 end 
