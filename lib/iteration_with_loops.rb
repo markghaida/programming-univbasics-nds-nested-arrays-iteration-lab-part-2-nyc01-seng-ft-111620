@@ -12,7 +12,6 @@ while count < src.length do
 
 	while inner_count < src[count].length do
 		
-		
 		if low_temp > src[count][inner_count] 
 			
 			low_temp = src[count][inner_count]
